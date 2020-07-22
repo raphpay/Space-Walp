@@ -41,6 +41,7 @@ struct ContentView: View {
             }
             
             LoginView(showLogin: $showLogin)
+                
             .offset(y : showLogin ? 0 : screen.width * 2)
                 .animation(.easeInOut)
         }
