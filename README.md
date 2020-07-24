@@ -13,5 +13,5 @@ Space Walp is a login screen with some animations, and this code is made by myse
 
 Here are the screenshots for the project 
 
-<img src="SpaceWalpscreenshots/image1.png" width="200" >
-<img src="Space-Walpscreenshots/image2.png" width="200" >
+<img src="screenshots/image1.png" width="200" >
+<img src="screenshots/image2.png" width="200" >
